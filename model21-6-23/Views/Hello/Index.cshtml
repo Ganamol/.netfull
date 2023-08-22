@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using model21_6_23.Models;
+@model List<Student>;
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Mark</th>
+        <th>Status</th>
+    </tr>
+    @foreach(var item in Model)
+            {
+<tr>
+    <td>@item.Id</td>
+    <td>@item.Name</td>
+    <td>@item.Mark</td>
+
+    @if (item.Mark >20)
+    {
+        <td>Passed</td>
+
+    }
+    else if (item.Mark == 20)
+    {
+        <td>Equal</td>
+    }
+    else
+    {
+        <td>Failed</td>
+    }
+</tr>
+            }
+</table>
+<style>
+    table,th,td,tr
+    {
+        border:1px solid black;
+      
+    }
+</style>

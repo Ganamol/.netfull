@@ -1,0 +1,14 @@
+C:\Users\Lab\source\repos\test\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\Lab\source\repos\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\Lab\source\repos\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\Lab\source\repos\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\Lab\source\repos\test\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\Lab\source\repos\test\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\Lab\source\repos\test\test\obj\Debug\netcoreapp3.1\test.vbproj.AssemblyReference.cache
+C:\Users\Lab\source\repos\test\test\obj\Debug\netcoreapp3.1\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab\source\repos\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\Lab\source\repos\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.vb
+C:\Users\Lab\source\repos\test\test\obj\Debug\netcoreapp3.1\test.vbproj.CoreCompileInputs.cache
+C:\Users\Lab\source\repos\test\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\Lab\source\repos\test\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\Lab\source\repos\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

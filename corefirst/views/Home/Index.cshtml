@@ -1,0 +1,37 @@
+﻿
+@using corefirst.Models;
+@model List<Student>;
+ 
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Marks</th>
+        <th>Status</th>
+    </tr>
+    
+        @foreach (var item in Model)
+        {<tr>
+    <td>@item.Id</td>
+    <td>@item.Name</td>
+    <td>@item.marks</td>
+    @if (item.marks > 10)
+    {
+        <td>Passed</td>
+    }
+    else
+    {
+        <td>Failed</td>
+    }
+</tr>
+    }
+
+</table>
+<style>
+    table,th,td
+    {
+        border:2px solid black;
+        border-collapse:collapse
+    }
+</style>

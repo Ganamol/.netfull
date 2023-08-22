@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+   <script>
+  function fun() {
+    var a = Number(document.getElementById('a').value);
+    var b = Number(document.getElementById('b').value);
+    let c=a+b;
+    document.getElementById('answer').value = c;
+}
+   </script>
+
+
+    <form method="" action=""> 
+  
+        Enter The First Number:<input type="text" id="a" name="a" />
+         Enter The Second Number:<input type="text" id="b" name="b"/>
+        
+    <button onclick="fun()">Submit</button>
+     <input type="button" style="width:20%" id="answer"/>
+    
+</form>
+   
+</div>

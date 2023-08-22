@@ -1,0 +1,16 @@
+C:\Users\Lab\source\repos\vb.net\vb.net\bin\Debug\netcoreapp3.1\vb.net.exe
+C:\Users\Lab\source\repos\vb.net\vb.net\bin\Debug\netcoreapp3.1\vb.net.deps.json
+C:\Users\Lab\source\repos\vb.net\vb.net\bin\Debug\netcoreapp3.1\vb.net.runtimeconfig.json
+C:\Users\Lab\source\repos\vb.net\vb.net\bin\Debug\netcoreapp3.1\vb.net.runtimeconfig.dev.json
+C:\Users\Lab\source\repos\vb.net\vb.net\bin\Debug\netcoreapp3.1\vb.net.dll
+C:\Users\Lab\source\repos\vb.net\vb.net\bin\Debug\netcoreapp3.1\vb.net.pdb
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.vbproj.AssemblyReference.cache
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.AssemblyInfoInputs.cache
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.AssemblyInfo.vb
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.vbproj.CoreCompileInputs.cache
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.dll
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.pdb
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.genruntimeconfig.cache
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.LoginForm1.resources
+C:\Users\Lab\source\repos\vb.net\vb.net\obj\Debug\netcoreapp3.1\vb.net.vbproj.GenerateResource.cache

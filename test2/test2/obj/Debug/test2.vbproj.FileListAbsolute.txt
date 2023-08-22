@@ -1,0 +1,12 @@
+C:\Users\Lab\source\repos\test2\test2\bin\Debug\test2.exe.config
+C:\Users\Lab\source\repos\test2\test2\bin\Debug\test2.exe
+C:\Users\Lab\source\repos\test2\test2\bin\Debug\test2.pdb
+C:\Users\Lab\source\repos\test2\test2\bin\Debug\test2.xml
+C:\Users\Lab\source\repos\test2\test2\obj\Debug\test2.vbproj.AssemblyReference.cache
+C:\Users\Lab\source\repos\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\Lab\source\repos\test2\test2\obj\Debug\test2.Resources.resources
+C:\Users\Lab\source\repos\test2\test2\obj\Debug\test2.vbproj.GenerateResource.cache
+C:\Users\Lab\source\repos\test2\test2\obj\Debug\test2.vbproj.CoreCompileInputs.cache
+C:\Users\Lab\source\repos\test2\test2\obj\Debug\test2.exe
+C:\Users\Lab\source\repos\test2\test2\obj\Debug\test2.xml
+C:\Users\Lab\source\repos\test2\test2\obj\Debug\test2.pdb

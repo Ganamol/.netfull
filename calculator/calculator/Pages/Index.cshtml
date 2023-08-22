@@ -1,0 +1,35 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+     <p>Hello, world! The time on the server is @DateTime.Now</p>
+    <table>
+       <tr>
+
+
+     <input type="text" name="name" />
+     <br />
+       <br />
+
+
+   <button name="btn1" onclick="function sum()">1</button><button name="btn2">2</button><button>3</button><button>4</button>  
+   <br />
+   <br />
+    <button>5</button><button>6</button><button>7</button><button>8</button>  <br />
+    <br />
+    
+    <button>9</button><button>10</button><button>+</button><button>-</button>  <br />
+    <br />
+</tr></table>
+<script>
+function sum()
+{
+    name = "hi";
+}
+</script>
+</div>

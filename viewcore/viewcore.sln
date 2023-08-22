@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viewcore", "viewcore.csproj", "{AFDED0E0-C659-45E3-AABD-A1C39E8725BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreviewdisplay", "..\coreviewdisplay\coreviewdisplay.csproj", "{3259D597-1575-4EA8-8E21-12EBDD9F164E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDED0E0-C659-45E3-AABD-A1C39E8725BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDED0E0-C659-45E3-AABD-A1C39E8725BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDED0E0-C659-45E3-AABD-A1C39E8725BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDED0E0-C659-45E3-AABD-A1C39E8725BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3259D597-1575-4EA8-8E21-12EBDD9F164E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3259D597-1575-4EA8-8E21-12EBDD9F164E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3259D597-1575-4EA8-8E21-12EBDD9F164E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3259D597-1575-4EA8-8E21-12EBDD9F164E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01FA1F8-8C30-4D50-9708-28E690263B7B}
+	EndGlobalSection
+EndGlobal

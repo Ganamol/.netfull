@@ -1,0 +1,7 @@
+C:\Users\Lab\source\repos\basicnew\bin\basicnew.dll.config
+C:\Users\Lab\source\repos\basicnew\bin\basicnew.dll
+C:\Users\Lab\source\repos\basicnew\bin\basicnew.pdb
+C:\Users\Lab\source\repos\basicnew\obj\Debug\basicnew.csproj.AssemblyReference.cache
+C:\Users\Lab\source\repos\basicnew\obj\Debug\basicnew.csproj.CoreCompileInputs.cache
+C:\Users\Lab\source\repos\basicnew\obj\Debug\basicnew.dll
+C:\Users\Lab\source\repos\basicnew\obj\Debug\basicnew.pdb

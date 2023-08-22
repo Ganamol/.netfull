@@ -1,0 +1,41 @@
+﻿@{var a=0;
+    var b = 0;
+    var c = 0;
+}
+
+@using MVCLISTMODEL.Models;
+@model List<Student>;
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Mark</th>
+        <th>Mark1</th>
+        <th>Status</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>@item.Id</td>
+    <td>@item.Name</td>
+    <td>@item.Mark</td>
+    <td>@item.Mark1</td>
+
+    @{
+
+        a = Convert.ToInt32(@item.Mark);
+        b = Convert.ToInt32(@item.Mark1);
+        c = a + b;
+    }
+
+    <td>@c</td>
+</tr>
+    }
+
+</table>
+<style>
+    table,tr,th,td{
+        border:1px solid black;
+    }
+</style>
+
